@@ -72,7 +72,7 @@ function game(){
         const computerSelection = computerPlay();
         console.log("Your choice is " + yourChoice);
         console.log("Computer choice is " + computerSelection)
-        final = console.log(playRound(yourChoice.toLowerCase(), computerSelection));
+        console.log(playRound(yourChoice.toLowerCase(), computerSelection));
 
         // if(final =="You lose!"){
         //     countForComputer++;
