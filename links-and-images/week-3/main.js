@@ -24,32 +24,41 @@ function playRound(playerSelection, computerSelection){
     // Computer choice is papper
     if(playerSelection == "scissors" && computerSelection == "papper"){
         console.log("You win!")
+        return "you win!"
 
     }else if(playerSelection == "papper" && computerSelection == "papper"){
         console.log("It's a tie!")
+        return "It's a tie"
 
     }else if(playerSelection == "rock" && computerSelection == "papper"){
         console.log("You lose!")
-    
+        return "you lose!"
+
     // Computer choice is rock
     }else if(playerSelection == "scissors" && computerSelection == "rock"){
         console.log("You lose!")
+        return "you lose!"
 
     }else if(playerSelection == "rock" && computerSelection == "rock"){
         console.log("It's a tie!")
+        return "It's a tie"
 
     }else if(playerSelection == "papper" && computerSelection == "rock"){
         console.log("You win!")
+        return "you win!"
     
     // Computer choice is scissors
     }else if(playerSelection == "rock" && computerSelection == "scissors"){
         console.log("You win!")
+        return "you win!"
 
     }else if(playerSelection == "papper" && computerSelection == "scissors") {
         console.log("You lose!")
+        return "you lose"
 
     }else if(playerSelection == "scissors" && computerSelection == "scissors") {
         console.log("It's a tie!")
+        return "It's a tie"
     }
 
 }
