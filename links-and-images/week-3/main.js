@@ -20,7 +20,7 @@ computerPlay();
 // Play a round function
 function playRound(playerSelection, computerSelection){
 
-    // Computer choice is papper
+    // Computer choice is paper
     if(playerSelection == "scissors" && computerSelection == "paper"){
         return "you win!"
     }else if(playerSelection == "paper" && computerSelection == "paper"){
