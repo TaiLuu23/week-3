@@ -19,7 +19,7 @@ computerPlay();
 
 // Play a round function
 function playRound(playerSelection, computerSelection){
-    let final;
+    //let final;
 
     // Computer choice is papper
     if(playerSelection == "scissors" && computerSelection == "papper"){
