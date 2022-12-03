@@ -1,0 +1,76 @@
+https://github.com/brab0210/brainnest_program/tree/main/week_2
+From Fabio Gomes to Everyone 10:03 PM
+go after
+Repository Fabio Gomes
+https://github.com/fabiolpgomes/Training_Brainnest_Css
+Link page
+https://fabiolpgomes.github.io/Training_Brainnest_Css/
+From Fatma Siraj to Everyone 10:08 PM
+https://github.com/fatmasiraj/CSS
+From Bernardo Arrechea Bröndsted to Everyone 10:21 PM
+Link page:
+https://brab0210.github.io/brainnest_program/week_2/css_project/
+
+repo:
+https://github.com/brab0210/brainnest_program/tree/main/week_2/css_project
+From Laura to Everyone 10:33 PM
+https://github.com/LauRadulea/frontendDev.git
+https://lauradulea.github.io/web/
+From Alexandra to Everyone 10:42 PM
+Guys, I was driving while Aleksa explained and I missed, how do I make a link for website?
+From Bernardo Arrechea Bröndsted to Everyone 10:44 PM
+go to your GitHub page, then Settings, search for Pages (it's on the  left aside bar)
+From Natalie Lind to Everyone 10:44 PM
+clone the repository of your CSS project, go to the repository settings, click pages on the left, deploy from a branch > main > root, then creat a custom URL and refresh the oage. It should show the link at the top. Hope that helps!
+From Fatma Siraj to Everyone 10:46 PM
+https://github.com/fatmasiraj/CSS
+
+https://fatmasiraj.github.io/CSS/main_CSS_project/
+From Alexandra to Everyone 10:48 PM
+Thank you! It worked!
+From Natalie Lind to Everyone 10:48 PM
+🥳
+From Alexandra to Everyone 10:48 PM
+https://kennysyke.github.io/branniestcss.github.io./
+sorry
+From Natalie Lind to Everyone 10:55 PM
+https://github.com/NatalieLind/brainnest-training/tree/main/css/main_css_project
+https://natalielind.github.io/-natalielind.github.io-maincss/
+From Alice Bagoud to Everyone 11:01 PM
+https://github.com/alicebagoud/alicebagoud.github.io/tree/main/brainnest/brainnest-assignments
+https://alicebagoud.github.io/brainnest/brainnest-assignments/assignment-CSS/index.html
+From Linah Hossam to Everyone 11:04 PM
+did someone face a problem when trying to get the link of the pages?
+I keep getting an error
+From Alexandra to Everyone 11:08 PM
+https://kennysyke.github.io/branniestcss.github.io./
+From Natalie Lind to Everyone 11:09 PM
+Yes, make sure you're only uploading the specific folder like "main css" to a new repository, then once you make a custom url refresh the page and see if a link popped up in the top. It kept happening to me too until I refreshed
+From Linah Hossam to Everyone 11:10 PM
+i'll try again thank youu
+From Catalin Barcan to Everyone 11:15 PM
+https://github.com/cbarcan/Brainnest_training_CSS/actions
+https://cbarcan.github.io/Brainnest_training_CSS/
+From Radu-Gabriel Danila to Everyone 11:23 PM
+https://gabrielradudanila.github.io/brainnest-assignment-2/
+From Motca Ionel to Everyone 11:30 PM
+https://jazzy-sawine-52295d.netlify.app/
+From Gil Katz to Everyone 11:34 PM
+Can anyone please explain how to share a direct link to the webpage content?
+Please?
+From Todor Mladenovic to Everyone 11:36 PM
+https://todor-cmd.github.io/css-webpage/
+From Linah Hossam to Everyone 11:41 PM
+https://linah67.github.io/css/
+From Milokuhle Mdanyana to Everyone 11:47 PM
+https://milokuhle.github.io/cssAssignment/presentation/
+From Hassan to Everyone 11:47 PM
+Hosted Link: https://hsan256.github.io/CSS-Project
+
+Repo: https://github.com/hsan256/Assignments-2
+From Milokuhle Mdanyana to Everyone 11:53 PM
+https://milokuhle.github.io/cssAssignment/presentation/
+From Erin Lin to Everyone 11:59 PM
+https://erinreix.github.io/Main-Project/
+From Me to Everyone 12:06 AM
+project/index.html

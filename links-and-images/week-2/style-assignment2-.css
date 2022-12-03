@@ -1,0 +1,19 @@
+.header-1{
+    color: red;
+    background-color: darkblue;
+}
+
+.header-2{
+    color:	#FF8C00;
+    background-color: 	#778899;
+}
+
+.header-3{
+    color: rgb(106, 211, 37);
+    background: rgb(102, 255, 204);
+}
+
+.header-4{
+    color: hsl(300,100%,35%);
+    background-color: hsl(81,100%,65%);
+}
