@@ -7,7 +7,7 @@ function computerPlay(){
     if(result == 1){
         comChoice = "rock";
     }else if (result == 2 ){
-        comChoice = "papper";
+        comChoice = "paper";
     }else{
         comChoice ="scissors";
     }
@@ -21,11 +21,11 @@ computerPlay();
 function playRound(playerSelection, computerSelection){
 
     // Computer choice is papper
-    if(playerSelection == "scissors" && computerSelection == "papper"){
+    if(playerSelection == "scissors" && computerSelection == "paper"){
         return "you win!"
-    }else if(playerSelection == "papper" && computerSelection == "papper"){
+    }else if(playerSelection == "paper" && computerSelection == "paper"){
         return "It's a tie"
-    }else if(playerSelection == "rock" && computerSelection == "papper"){
+    }else if(playerSelection == "rock" && computerSelection == "paper"){
         return "you lose!"
 
     // Computer choice is rock
@@ -33,13 +33,13 @@ function playRound(playerSelection, computerSelection){
         return "you lose!"
     }else if(playerSelection == "rock" && computerSelection == "rock"){
         return "It's a tie"
-    }else if(playerSelection == "papper" && computerSelection == "rock"){
+    }else if(playerSelection == "paper" && computerSelection == "rock"){
         return "you win!"
     
     // Computer choice is scissors
     }else if(playerSelection == "rock" && computerSelection == "scissors"){
         return "you win!"
-    }else if(playerSelection == "papper" && computerSelection == "scissors") {
+    }else if(playerSelection == "paper" && computerSelection == "scissors") {
         return "you lose!"
     }else if(playerSelection == "scissors" && computerSelection == "scissors") {
         return "It's a tie"
