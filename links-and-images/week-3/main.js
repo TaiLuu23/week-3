@@ -50,15 +50,12 @@ function playRound(playerSelection, computerSelection){
 
 //Five rounds game function
 function game(){
-
     for (i = 0; i < 5; i++){
-
         let yourChoice = window.prompt("Enter your choice");
         let computerSelection = computerPlay();
         console.log("Your choice is " + yourChoice);
         console.log("Computer choice is " + computerSelection)
         console.log(playRound(yourChoice.toLowerCase(), computerSelection));
     }
-
 }
 game();
