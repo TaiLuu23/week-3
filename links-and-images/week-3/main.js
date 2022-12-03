@@ -54,12 +54,6 @@ function playRound(playerSelection, computerSelection){
 
 }
 
-const playerSelection = "Papper";
-const computerSelection = computerPlay();
-
-console.log("Your choice is " + playerSelection);
-console.log("Computer choice is " + computerSelection)
-console.log(playRound(playerSelection.toLowerCase(), computerSelection));
 
 //Five rounds game function
 function game(){
@@ -69,7 +63,7 @@ function game(){
     for (i = 0; i < 5; i++){
 
         let yourChoice = window.prompt("Enter your choice");
-        const computerSelection = computerPlay();
+        let computerSelection = computerPlay();
         console.log("Your choice is " + yourChoice);
         console.log("Computer choice is " + computerSelection)
         console.log(playRound(yourChoice.toLowerCase(), computerSelection));
